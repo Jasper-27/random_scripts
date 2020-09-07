@@ -9,4 +9,7 @@
 
  This python script is used to return the total Karma of someone on Reddit. It does this using urllib and regex.
 
- 
+
+### [spoofMac](/spoofMac.sh)
+
+This is a shell script that spoofs your Mac address on MacOS. It uses ifconfig. 
